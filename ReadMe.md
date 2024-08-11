@@ -1,5 +1,5 @@
 # 💫 About Me:
- Olá, eu sou Gabriel Natividade<br>- 🎓Sou estudante de Licenciatura em Computação<br>- 🔭 Trabalho com Front e Back-end<br>- 🧑‍💻 Estou a Procura de Estágio<br>- 🌱 Estudando Css, Html e JavaScript<br>- 💬 Contate-me no email: gabrielnatividade2112@gmail.com<br>
+ Olá, eu sou Gabriel Natividade<br>- 🎓Sou formado em Licenciatura em Computação<br>- 🔭 Trabalho com Front e Back-end<br>- 🧑‍💻 Estou a Procura de Estágio<br>- 🌱 Css, Html e JavaScript, NodeJS<br>- 💬 Contate-me no email: gabrielnatividade2112@gmail.com<br>
 
 
 ## 🌐 Socials:
